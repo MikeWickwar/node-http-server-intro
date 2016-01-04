@@ -2,7 +2,7 @@
 In this exercise, you'll use the `fs` module and the `http` module to create an HTTP file server.
 
 ## Setup
-- Fork and clone this repository. A skeleton server has been defined for you in [`server.js`](server.js) and should serve as the basis for your application. 
+- Fork and clone this repository. A skeleton server has been defined for you in [`server.js`](server.js) and should serve as the basis for your application.
 - Start your server with the command `node server.js`.
 
 ## Instructions
